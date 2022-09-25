@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @m1rr0r343
+- 👋 Hi, I’m @m1rr0r343 or simple Julius😜
 
-- 👀 I’m interested in ...
-  - Cybersecurity
-  - mechatronics
+  - I am a mechatronics engineer and cybersecurity student from germany.
+  > If you want to get in contact with me or ask some questions, reach out to me on mailto:contact@juliusmuehlich.com
+
+- 👀 I’m also interested in ...
   - productivity
   - 3d-printing
   > 3d models are uploaded to [Thingiverse](https://www.thingiverse.com/m1rr0r343/designs).
