@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @m1rr0r343 or simple Julius😜
 
   - I am a mechatronics engineer and cybersecurity student from germany.
-  > If you want to get in contact with me or ask some questions, reach out to me on mailto:contact@juliusmuehlich.com
+  > If you want to get in contact with me or ask some questions, reach out to me on contact@juliusmuehlich.com
 
 - 👀 I’m also interested in ...
   - productivity
